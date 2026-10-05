@@ -1,0 +1,6 @@
+{
+  "name": "SomRent Property Cloud",
+  "description": "Enterprise property governance, notarized title deed verification, mobile escrow, and tenancy management for Somaliland.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
